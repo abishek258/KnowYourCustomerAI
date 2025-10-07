@@ -4,7 +4,7 @@ A complete document processing system that extracts 25 specific fields from NCB 
 
 ## 🚀 **Live Demo**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/kyc-extraction-ncb)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/abishek258/KnowYourCustomerAI)
 
 ## ✨ **Features**
 
