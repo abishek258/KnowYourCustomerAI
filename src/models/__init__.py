@@ -1,0 +1,1 @@
+"""Models package for NCB Bank KYC Document Processing API."""
